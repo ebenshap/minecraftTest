@@ -1,0 +1,8 @@
+{
+	"parent": "mycode:block/machine",
+	"textures": {
+		"side": "mycode:blocks/machine_advanced",
+		"front": "mycode:blocks/furnace_generator_front_advanced_activated",
+		"alt": "mycode:blocks/machine_advanced"
+	}
+}

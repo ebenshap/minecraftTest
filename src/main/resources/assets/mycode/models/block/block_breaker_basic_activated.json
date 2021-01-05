@@ -1,0 +1,8 @@
+{
+	"parent": "mycode:block/machine",
+	"textures": {
+		"side": "mycode:blocks/block_breaker_side_basic",
+		"front": "mycode:blocks/block_breaker_front_basic_activated",
+		"alt": "mycode:blocks/machine_basic"
+	}
+}

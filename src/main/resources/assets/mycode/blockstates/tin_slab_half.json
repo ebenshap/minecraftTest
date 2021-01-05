@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "dummy=false,half=bottom": { "model": "mycode:tin_slab_bottom" },
+        "dummy=false,half=top": { "model": "mycode:tin_slab_top" }
+    }
+}

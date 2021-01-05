@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "dummy=false,half=top": { "model": "mycode:tin_block" },
+		"dummy=false,half=bottom": { "model": "mycode:tin_block" }
+    }
+}

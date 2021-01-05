@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"type=basic": { "model": "mycode:machine_frame_basic" },
+		"type=advanced": { "model": "mycode:machine_frame_advanced" }
+	}
+}

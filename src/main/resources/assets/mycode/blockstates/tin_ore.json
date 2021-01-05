@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"type=overworld": { "model": "mycode:tin_ore_overworld" },
+		"type=nether": { "model": "mycode:tin_ore_nether" },
+		"type=end": { "model": "mycode:tin_ore_end" }
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"variants": {
+		"activated=false,facing=north": { "model": "mycode:double_furnace" },
+		"activated=false,facing=south": { "model": "mycode:double_furnace", "y": 180 },
+		"activated=false,facing=east": { "model": "mycode:double_furnace", "y": 90 },
+		"activated=false,facing=west": { "model": "mycode:double_furnace", "y": 270 },
+		"activated=false,facing=up": { "model": "mycode:double_furnace", "x": 270 },
+		"activated=false,facing=down": { "model": "mycode:double_furnace", "x": 90 },
+		"activated=true,facing=north": { "model": "mycode:double_furnace_activated" },
+		"activated=true,facing=south": { "model": "mycode:double_furnace_activated", "y": 180 },
+		"activated=true,facing=east": { "model": "mycode:double_furnace_activated", "y": 90 },
+		"activated=true,facing=west": { "model": "mycode:double_furnace_activated", "y": 270 },
+		"activated=true,facing=up": { "model": "mycode:double_furnace_activated", "x": 270 },
+		"activated=true,facing=down": { "model": "mycode:double_furnace_activated", "x": 90 }
+	}
+}

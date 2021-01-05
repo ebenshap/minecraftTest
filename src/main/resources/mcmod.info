@@ -1,0 +1,18 @@
+[
+{
+  "modid": "mycode",
+  "name": "My code",
+  "description": "My code, working with CJMinecraft tutorial, Add a bit of everything.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "useDependencyInformation": true,
+  "requiredMods": [],
+  "dependencies": []
+}
+]

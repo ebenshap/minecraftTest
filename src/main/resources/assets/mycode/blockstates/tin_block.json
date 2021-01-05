@@ -1,0 +1,5 @@
+{
+	"variants": {
+		"normal": { "model": "mycode:tin_block" }
+	}
+}

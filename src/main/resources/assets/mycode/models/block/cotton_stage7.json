@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "mycode:blocks/cotton_stage_7"
+    }
+}
